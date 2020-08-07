@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [0.1.58] - 2020-08-07
+### Added
+- [Vault_cli] Introduce role
+
 ## [0.1.57] - 2020-08-03
 ### Changed
 - [Supervisor] Use unified exclusive template lookup
